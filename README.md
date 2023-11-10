@@ -1,4 +1,4 @@
-# 👨‍💻TECHNO HACKS_INTERNSHIP📚
+# 👨‍💻TECHNO HACKS INTERNSHIP📚
 
 ✅Task-1[Calculator]
 <br>
